@@ -11,6 +11,7 @@
   "author": "aqsa ghazal",
   "license": "MIT",
   "dependencies": {
+    "agr1_number_guessing_game": "^1.0.0",
     "agr1_simple_calculator": "^1.0.0",
     "inquirer": "^9.2.16"
   },
